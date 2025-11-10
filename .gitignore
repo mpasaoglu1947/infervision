@@ -1,0 +1,12 @@
+﻿__pycache__/
+*.pyc
+.env
+.venv/
+.vscode/
+.DS_Store
+*.png
+*.jpg
+*.jpeg
+*.mp4
+checkpoints/
+artifacts/
